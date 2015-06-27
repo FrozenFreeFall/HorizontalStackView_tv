@@ -1,4 +1,7 @@
 # HorizontalStackView_tv
+
+[![Build Status](https://travis-ci.org/grandcentrix/tray.svg?branch=master)](https://travis-ci.org/grandcentrix/tray) [![License](https://img.shields.io/badge/license-Apache%202-green.svg?style=flat)](https://github.com/grandcentrix/tray/blob/master/LICENSE.txt)
+
 android tv widget
 
 # Android 4.0.3
